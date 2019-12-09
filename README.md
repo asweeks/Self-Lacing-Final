@@ -1,4 +1,4 @@
-Self Lacing Sneaker
+## Self Lacing Sneaker
 
 A self lacing sneaker protoype comprised of 3D printed parts and Arduino.
 
@@ -18,6 +18,7 @@ What did you do in each of the past four weeks?
 - Week 1: Write Proposal, flush out initial code for your idea
 - Week 2: Continue to write code
 - Week 3: Cad and 3D print parts and finalize code
+![MidsoleCad](https://github.com/asweeks/final-proposal-1.md/blob/master/explodedMidsole.PNG)
 - Week 4: Present!
  
 ## Challenges
