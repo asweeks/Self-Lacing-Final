@@ -27,6 +27,10 @@ The main challenge was getting the stepper to work. Unfortunatly the only steppe
 
 ## Completed Work
 ![TopView](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/topView.JPG)
+![Strap1](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/StrapInCynch.JPG)
+![Strap2](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/StrapInCynch2.JPG)
+![Strap3](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/StrapInCynch3.JPG)
+![Button](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/Button.JPG)
 Upload photos and videos of your completed final project!
 
 Also upload the code that makes up your project to your repository.
