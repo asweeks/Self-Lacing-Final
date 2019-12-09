@@ -26,7 +26,7 @@ What did you do in each of the past four weeks?
 The main challenge was getting the stepper to work. Unfortunatly the only steppers available at the Hybrid Lab were very powerful, and require a wall plug along with power from my computer to run.
 
 ## Completed Work
-
+![TopView](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/topView.JPG)
 Upload photos and videos of your completed final project!
 
 Also upload the code that makes up your project to your repository.
