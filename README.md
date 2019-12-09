@@ -8,33 +8,28 @@ The lacing component will use two buttons and a stepper moter. One button, place
 
 The main interactions and inputs are the tightening and loosening buttons.
 
-Components will be: stepper motor, 3D printed couplers, strap, 3D printed "midsole", wall power, cynch
+Components will be: stepper motor, 3D printed couplers, strap, 3D printed "midsole", wall power, cynch.
 
 ## Timeline
-
-What did you do in each of the past four weeks?
 
 - Week 1: Write Proposal, flush out initial code for your idea
 - Week 2: Continue to write code
 - Week 3: Cad and 3D print parts and finalize code
-![MidsoleCad](https://github.com/asweeks/final-proposal-1.md/blob/master/explodedMidsole.PNG)
-![Couplers](https://github.com/asweeks/final-proposal-1.md/blob/master/couplers.PNG)
 - Week 4: Present!
- 
+
 ## Challenges
 
 The main challenge was getting the stepper to work. Unfortunatly the only steppers available at the Hybrid Lab were very powerful, and require a wall plug along with power from my computer to run.
 
 ## Completed Work
+![MidsoleCad](https://github.com/asweeks/final-proposal-1.md/blob/master/explodedMidsole.PNG)
+![Couplers](https://github.com/asweeks/final-proposal-1.md/blob/master/couplers.PNG)
 ![TopView](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/topView.JPG)
 ![Strap1](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/StrapInCynch.JPG)
 ![Strap2](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/StrapInCynch2.JPG)
 ![Strap3](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/StrapInCynch3.JPG)
 ![Button](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/Button.JPG)
-Upload photos and videos of your completed final project!
 ![tightenVid](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/IMG_E5198.MOV)
-
-Also upload the code that makes up your project to your repository.
 
 ## References and links
 
