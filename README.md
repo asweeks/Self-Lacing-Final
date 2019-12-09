@@ -30,7 +30,8 @@ The main challenge was getting the stepper to work. Unfortunatly the only steppe
 ![Strap3](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/StrapInCynch3.JPG)
 ![Button](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/Button.JPG)
 ![tightenVid](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/IMG_E5198.MOV)
+![tightenVid2](https://github.com/asweeks/Self-Lacing-Final.md/blob/master/topViewFoot.MOV)
 
 ## References and links
-
-Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
+Adafruit tutorial on how to wire steppers
+https://learn.adafruit.com/adafruit-motor-shield/using-stepper-motors
